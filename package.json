@@ -1,0 +1,18 @@
+{
+  "name": "grunt-app",
+  "version": "1.0.0",
+  "description": "test app for grunt ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-coffee": "^2.0.0",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express": "^1.4.1"
+  }
+}

@@ -1,0 +1,6 @@
+# compilation files
+app.css
+app.js
+
+# dependency directory
+node_modules
