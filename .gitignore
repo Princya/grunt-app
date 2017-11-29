@@ -4,3 +4,6 @@ app.js
 
 # dependency directory
 node_modules
+
+# IDE files
+.idea
