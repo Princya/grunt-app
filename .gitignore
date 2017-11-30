@@ -6,4 +6,4 @@ app.js
 node_modules
 
 # IDE files
-.idea
+.idea/
